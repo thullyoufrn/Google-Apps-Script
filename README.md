@@ -20,6 +20,8 @@ Feito isso, os gerentes dos projetos desenvolvidos pelo PETee podem acessar a ab
 
 Apertando apenas um botão na planilha, a consulta será realizada de forma automatizada e, em poucos segundos, os gerentes terão o resultado da consulta.
 
+Uma breve demonstração do script rodando: https://youtu.be/_k70SPiZvek.
+
 ### Aba Mural
 
 ![image](https://user-images.githubusercontent.com/77694067/184682324-eeaa76c4-d268-46e0-8027-1f0fe3e15bd5.png)
@@ -27,7 +29,3 @@ Apertando apenas um botão na planilha, a consulta será realizada de forma auto
 ### Aba Consulta
 
 ![image](https://user-images.githubusercontent.com/77694067/184683385-e415dae1-9b32-4a8d-9fe0-4737ecf7e42a.png)
-
-![video]([https://github.com/thullyoufrn/Google-Apps-Script/blob/main/PET-Agenda.mkv](https://github.com/thullyoufrn/Google-Apps-Script/blob/main/Aba%20-%20Consulta%20(Editado).mp4))
-
-## Central de Projetos
